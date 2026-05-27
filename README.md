@@ -57,7 +57,7 @@ A interface é guiada inteiramente por teclado e mouse, projetada para um fluxo 
 | Tecla | Ação |
 | :---: | :--- |
 | **`X`** | Exclui o objeto atualmente selecionado. |
-| **`U`** | Salva a composição atual no disco (`objetos.txt`). |
+| **`U`** | Salva a composição atual no disco (`projeto_grafico.txt`). |
 | **`K`** | Carrega a composição salva no disco. |
 | **`A` / `B` / `Z`**| Inicia (`A`), Pausa (`B`) ou Reseta (`Z`) a engine de animação e colisões. |
 | **`ESC`** | Encerra a aplicação de forma segura. |
@@ -92,6 +92,6 @@ Após a compilação bem-sucedida, inicie a aplicação com o comando:
 
 ## 👨‍💻 Autor
 
-*Francisco Irlan de Oliveira Barros:* Estudante de Ciência da Computação, desenvolvedor e um amante de café ☕
+*Francisco Irlan de Oliveira Barros:* Estudante de Ciência da Computação, desenvolvedor e um amante de café ☕.
 
 > "A base de um bom software não está apenas no que ele mostra na tela, mas na solidez arquitetural e matemática que o sustenta."
