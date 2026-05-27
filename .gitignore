@@ -1,0 +1,11 @@
+*.o
+app
+obj/
+*.depend
+*.layout
+paint
+bin/
+.vscode/
+*.cbp
+*.exe
+*.txt
